@@ -70,7 +70,6 @@ function Header() {
             <div className="underNav">
                 {scrollToTop && (
                     <div
-                        className="underNav"
                         style={{
                             position: "fixed",
                             top: "0px",
